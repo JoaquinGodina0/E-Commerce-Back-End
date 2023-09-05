@@ -18,7 +18,8 @@
 
   ## [Installation](#table-of-contents)
 
-  1. Install the zip file or clone the repo 2. Install all dependencies required
+  1. Install the zip file or clone the repo 
+  2. Install all dependencies required which are Express.js, mysql2, sequelize, and dotenv
 
   ## [Usage](#table-of-contents)
 
